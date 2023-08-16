@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FinzyPHINZY
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning HTML5 
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me finzyphinzy@gmail.com
 
 <!---
