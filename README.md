@@ -1,7 +1,7 @@
 
 
 
-😎![cover](https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/a78845d0-ff73-4acd-83d8-fa42274f8d80)
+[contain](https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/a78845d0-ff73-4acd-83d8-fa42274f8d80)
  I am Boluwatife Adeyemi.
 
 👨‍💻 Software Engineer at 100Devs
