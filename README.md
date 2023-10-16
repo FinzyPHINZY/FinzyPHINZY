@@ -23,8 +23,6 @@
 
 <hr/>
 
-See [my website](https://shawncharles.com) for more information!
-
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -34,13 +32,12 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Living a simple life</h3>
         <br />
         <a target="_blank" href="">
-            <img src=![Screenshot 2023-10-16 at 09-58-14 Practicing Responsiveness](https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/b491702d-f126-472a-be58-8a11238b44ef)
-"" width="100%" alt="Minimalism"/>
+            <img src="#" width="100%" alt="Minimalism"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/FinzyPHINZY/Living-a-simple-life/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://finzyphinzy.github.io/Living-a-simple-life/" target="_blank">
@@ -52,17 +49,17 @@ See [my website](https://shawncharles.com) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Styles Conference Website</h3>
         <br />
-      <a target="_blank" href="https://finzyphinzy.github.io/Styles-conference/">
+      <a target="_blank" href="https://finzyphinzy.github.io/A-Conference-Website/">
             <img src="!(https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/36b2de00-45c4-4fee-9c28-0a82624446d2)
 " width="100%"  alt="Styles Conference"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/FinzyPHINZY/A-Conference-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://finzyphinzy.github.io/A-Conference-Website/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -79,10 +76,10 @@ See [my website](https://shawncharles.com) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/FinzyPHINZY/Meet-Me-FinzyPHINZY/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://finzyphinzy.github.io/Meet-Me-FinzyPHINZY/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -97,10 +94,10 @@ See [my website](https://shawncharles.com) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/FinzyPHINZY/Programming-Jokes-" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://finzyphinzy.github.io/Programming-Jokes-/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
