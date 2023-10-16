@@ -34,7 +34,8 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Living a simple life</h3>
         <br />
         <a target="_blank" href="">
-            <img src="#" width="100%" alt="Minimalism"/>
+            <img src=![Screenshot 2023-10-16 at 09-58-14 Practicing Responsiveness](https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/b491702d-f126-472a-be58-8a11238b44ef)
+"" width="100%" alt="Minimalism"/>
         </a>
         <br />
         <p align="center">
@@ -52,7 +53,8 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Styles Conference Website</h3>
         <br />
       <a target="_blank" href="https://finzyphinzy.github.io/Styles-conference/">
-            <img src="images/gif2.gif" width="100%"  alt="Styles Conference"/>
+            <img src="!(https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/36b2de00-45c4-4fee-9c28-0a82624446d2)
+" width="100%"  alt="Styles Conference"/>
         </a>
         <br />
         <p align="center">
