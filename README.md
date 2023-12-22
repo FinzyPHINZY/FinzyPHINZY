@@ -23,7 +23,6 @@
 
 <hr/>
 
-<img src="https://www.codewars.com/users/FinzyPHINZY/badges/large">
 
 
 <h1 align="center">Projects</h1>
@@ -114,7 +113,6 @@
 
 <h2>Codewar Progress</h2>
 <img src="https://www.codewars.com/users/FinzyPHINZY/badges/large">
-<img src="https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/fd714c08-0641-4b30-9ecc-6bf0bc0240af" width="100%">
 
 
 
