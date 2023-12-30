@@ -1,0 +1,19 @@
+repo_name: FinzyPHINZY/FinzyPHINZY
+report_id: d4f4524c32926894fce97e83dbbd5b48
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-30T06:10:33+00:00'
+requested_by: FinzyPHINZY
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
