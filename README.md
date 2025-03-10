@@ -1,4 +1,5 @@
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/FinzyPHINZY/FinzyPHINZY/assets/102292855/bdbdd854-0089-4edc-be0d-b40d991d0a96)
+![LinkedIn Banner](https://github.com/user-attachments/assets/85ef8c30-802a-4e9a-a381-6c9cee86fc7d)
+
 
 **Portfolio:** [Click here](https://finzyphinzy.vercel.app/)
 
