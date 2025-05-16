@@ -25,7 +25,7 @@ I’m a full-stack developer who genuinely loves software — not just the shiny
 
 ---
 
-🕵️‍♂️ Psst... I’ve got more cool stuff hiding in my [public repos](https://github.com/finzyphinzy). Go ahead, take a peek. you might just find something weird and wonderful. Or broken. Both are fun.
+🕵️‍♂️ Psst... I’ve got more cool stuff hiding in my [public repos](https://github.com/finzyphinzy/?tab=repositories). Go ahead, take a peek. you might just find something weird and wonderful. Or broken. Both are fun.
 
 
 ---
@@ -49,7 +49,7 @@ I get excited about:
 
 ### 📫 Let's Connect
 
-- 🐦 Twitter: [@finzyphinzy](https://twitter.com/iamfinzyphinzy_)  
+- 🐦 Twitter: [@iamfinzyphinzy_](https://twitter.com/iamfinzyphinzy_)  
 - 💼 LinkedIn: [linkedin.com/in/bolu-finzyphinzy](https://linkedin.com/in/bolu-finzyphinzy)  
 - 📧 Email: [finzyphinzyy@proton.me](mailto:finzyphinzyy@proton.me)
 
