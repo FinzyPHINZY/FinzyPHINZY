@@ -12,7 +12,7 @@ I’m a full-stack developer who genuinely loves software; not just the shiny pa
 - I **love software**! not just building cool things, but figuring out the messy, hard, “why-is-this-even-breaking” stuff.
 - I dive into things I suck at, break them down, and master them. Curiosity + persistence = my thing.
 - I take on projects I don’t yet understand, **phase them out**, and **ship clean, working solutions**.
-- Used **Google Pub/Sub**, **Cloud Storage**, and **Vertex AI** on the deepfake project — learned as I built.
+- Used **Google Pub/Sub**, **Cloud Storage**, and **Vertex AI** on the deepfake project. Learned as I built.
 - Yes, I write **documentation**. No, I don’t hate it.
 
 ---
