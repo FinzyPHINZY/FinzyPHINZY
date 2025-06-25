@@ -7,9 +7,9 @@ They say you can’t be great at both frontend and backend. I say, hold my termi
 ---
 
 ### 🚀 Who Am I?
-I’m a full-stack developer who genuinely loves software — not just the shiny parts, but the ugly bugs, the confusing docs, and the edge cases that don’t make sense until 3 days (and 20 tabs) later.
+I’m a full-stack developer who genuinely loves software; not just the shiny parts, but the ugly bugs, the confusing docs, and the edge cases that don’t make sense until 3 days (and 20 tabs) later.
 
-- I **love software** — not just building cool things, but figuring out the messy, hard, “why-is-this-even-breaking” stuff.
+- I **love software**! not just building cool things, but figuring out the messy, hard, “why-is-this-even-breaking” stuff.
 - I dive into things I suck at, break them down, and master them. Curiosity + persistence = my thing.
 - I take on projects I don’t yet understand, **phase them out**, and **ship clean, working solutions**.
 - Used **Google Pub/Sub**, **Cloud Storage**, and **Vertex AI** on the deepfake project — learned as I built.
