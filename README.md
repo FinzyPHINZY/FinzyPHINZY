@@ -1,60 +1,78 @@
+# Hey, I’m finzyphinzy 👋
 
-# 👋 Hey, I'm Boluwatife
+I **build MVPs from scratch**, fix fragile systems, and scale products that need to ship fast 🚀
 
-I build things that work. Frontend? Backend? I’m *in*.  
-They say you can’t be great at both frontend and backend. I say, hold my terminal.
+Most of my work lives at the messy intersection of:
+- 🧠 early-stage ideas that need structure
+- 🧪 MVPs going live for the first time
+- 🧯 production systems that break under real users
 
----
-
-### 🚀 Who Am I?
-I’m a full-stack developer who genuinely loves software; not just the shiny parts, but the ugly bugs, the confusing docs, and the edge cases that don’t make sense until 3 days (and 20 tabs) later.
-
-- I **love software**! not just building cool things, but figuring out the messy, hard, “why-is-this-even-breaking” stuff.
-- I dive into things I suck at, break them down, and master them. Curiosity + persistence = my thing.
-- I take on projects I don’t yet understand, **phase them out**, and **ship clean, working solutions**.
-- Used **Google Pub/Sub**, **Cloud Storage**, and **Vertex AI** on the deepfake project. Learned as I built.
-- Yes, I write **documentation**. No, I don’t hate it.
+I don’t just write code.  
+I take ownership of outcomes.
 
 ---
 
-### 📦 Some Stuff I've Built
+## What I do best 💡
 
-- 💸 **Bold Data** – A fintech engine with PalmPay virtual accounts, smart webhooks, transaction analytics, and daily traffic that keeps me humble.
+### 🏗️ Build
+- End-to-end MVPs (idea → production)
+- Rapid feature development & iteration
+- Product-first engineering decisions
 
-- 🔍 **Deepfake Detector** – GCP-powered media validation pipeline using Pub/Sub, Vertex AI, and Cloud Storage. Took it from “how do I even start this?” to “heck yeah, it works.”
+### 🧯 Fix & Improve
+- Debugging broken or fragile systems
+- Cleaning up rushed MVPs without slowing velocity
+- Fixing integrations, auth, webhooks, and background jobs
 
----
-
-🕵️‍♂️ Psst... I’ve got more cool stuff hiding in my [public repos](https://github.com/finzyphinzy/?tab=repositories). Go ahead, take a peek. you might just find something weird and wonderful. Or broken. Both are fun.
-
-
----
-
-### 🌱 Always Learning
-
-I get excited about:
-- Solving hard problems.
-- Building tools people *actually* use.
-- Diving into new tech without fear (okay, *some* fear, but I still do it).
-- Turning "I’ve never done this before" into “Oh, I’ve totally got this.”
+### ⚙️ Core stack
+- Node.js / TypeScript, Golang, Fastify
+- PostgreSQL, MongoDB, Clickhouse, Redis, queues, background jobs
+- APIs, integrations, webhooks
+- React / Next.js for dashboards & internal tools
 
 ---
 
-### 🎉 Fun Facts
+## How I work (this is where I overdeliver) 🧠
 
-- Will refactor your code *and* your life.  
-- Prefers dark mode. Even in daylight.
+- I ask uncomfortable questions early  
+- I ship in tight loops, not endless refactors  
+- I communicate progress and risks clearly  
+- I overdeliver by default, not by accident  
+
+If something is unclear, fragile, or silently risky, I’ll surface it.
+If something can be improved with little extra effort, I’ll do it.
+
+Founders don’t need “just a developer”.
+They need someone who treats their product like it’s theirs.
 
 ---
 
-### 📫 Let's Connect
+## Problems I’m usually brought in to solve 🧩
 
-- 🐦 Twitter: [@iamfinzyphinzy_](https://twitter.com/iamfinzyphinzy_)  
-- 💼 LinkedIn: [linkedin.com/in/bolu-finzyphinzy](https://linkedin.com/in/bolu-finzyphinzy)  
-- 📧 Email: [finzyphinzyy@proton.me](mailto:finzyphinzyy@proton.me)
+- “We need an MVP live fast — but done properly.”
+- “Our MVP works… but it’s breaking under real users.”
+- “We shipped fast, and now everything feels fragile.”
+- “Stripe, webhooks, or integrations are behaving weirdly.”
+- “The last dev left, and we’re scared to touch the code.”
 
 ---
 
-> *“If it’s broken, I’ll fix it. If it’s working, I’ll probably improve it anyway.”*
+## What I care about right now 🔍
 
+- SaaS & internal tooling
+- Revenue, churn & retention systems
+- Developer productivity & system design
+- Turning messy monoliths into sane, scalable systems
 
+---
+
+## Let’s build 🫱🏽‍🫲🏽
+
+If you’re a founder or team that values:
+- speed **with** judgment
+- ownership over task-taking
+- quality without perfection paralysis
+
+You’ll enjoy working with me.
+
+📫 Reach out via GitHub or DM me elsewhere.
