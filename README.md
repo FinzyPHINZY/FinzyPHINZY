@@ -29,6 +29,7 @@ I take ownership of outcomes.
 - PostgreSQL, MongoDB, Clickhouse, Redis, queues, background jobs
 - APIs, integrations, webhooks
 - React / Next.js for dashboards & internal tools
+- Docker, AWS, Azure
 
 ---
 
