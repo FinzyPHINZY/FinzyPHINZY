@@ -1,4 +1,4 @@
-# Hey, I’m finzyphinzy 👋
+# Hey, I’m Boluwatife 👋
 
 I **build MVPs from scratch**, fix fragile systems, and scale products that need to ship fast 🚀
 
