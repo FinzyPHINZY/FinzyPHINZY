@@ -1,4 +1,6 @@
-# Hey, I’m Boluwatife 👋 They say you can't be good at frontend and backend? I say "hold my coffee"
+# Hey, I’m Boluwatife 👋 
+
+They say you can't be good at **frontend** and **backend**? I say, "Hold my coffee"
 
 I **build MVPs from scratch**, fix fragile systems, and scale products that need to ship fast 🚀
 
